@@ -2,7 +2,7 @@
 
 ### End-to-End Sales Analytics, Forecasting, KPI Monitoring and Automated Reporting using PostgreSQL, Python and Power BI
 
-![SalesPulse Dashboard](screenshots/salespulse_cover.png)
+![SalesPulse Dashboard](Screenshots/salespulse_cover.png)
 
 ---
 
@@ -193,37 +193,37 @@ Business users can ask questions such as:
 
 ## Intelligence Assistant
 
-![Intelligence Assistant](screenshots/intelligence_assistant.png)
+![Intelligence Assistant](Screenshots/intelligence_assistant.png)
 
 ---
 
 ## Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ---
 
 ## Product Performance
 
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](Screenshots/product_performance.png)
 
 ---
 
 ## Regional Performance
 
-![Regional Performance](screenshots/regional_performance.png)
+![Regional Performance](Screenshots/regional_performance.png)
 
 ---
 
 ## Customer Intelligence
 
-![Customer Intelligence](screenshots/customer_intelligence.png)
+![Customer Intelligence](Screenshots/customer_intelligence.png)
 
 ---
 
 ## Alerts & Forecast
 
-![Alerts & Forecast](screenshots/alerts_forecast.png)
+![Alerts & Forecast](Screenshots/alerts_forecast.png)
 
 ---
 

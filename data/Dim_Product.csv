@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,unit_price
+1,Ergonomic Office Chair,Furniture,Chairs,1200
+2,Executive Desk,Furniture,Tables,2800
+3,Bookshelf 5-Tier,Furniture,Storage,650
+4,Standing Desk Converter,Furniture,Tables,1100
+5,Sofa 3-Seater,Furniture,Sofas,3500
+6,Filing Cabinet,Furniture,Storage,480
+7,Conference Table,Furniture,Tables,5200
+8,Mesh Chair,Furniture,Chairs,890
+9,Laptop Stand,Electronics,Accessories,320
+10,Wireless Keyboard,Electronics,Accessories,280
+11,27-inch Monitor,Electronics,Monitors,1800
+12,Laptop Pro 15,Electronics,Computers,6500
+13,Wireless Mouse,Electronics,Accessories,150
+14,USB Hub 7-Port,Electronics,Accessories,95
+15,Tablet 10-inch,Electronics,Computers,2200
+16,Noise Cancel Headphones,Electronics,Audio,1400
+17,Webcam HD 1080p,Electronics,Accessories,380
+18,External SSD 1TB,Electronics,Storage,650
+19,Printer All-in-One,Electronics,Printers,1200
+20,Smart Speaker,Electronics,Audio,450
+21,A4 Paper 500 sheets,Office Supplies,Paper,45
+22,Ballpoint Pens 12pk,Office Supplies,Pens,28
+23,Stapler Heavy Duty,Office Supplies,Fasteners,85
+24,Whiteboard 120x90,Office Supplies,Boards,420
+25,Sticky Notes 12pk,Office Supplies,Paper,35
+26,Highlighters 6pk,Office Supplies,Pens,22
+27,Folder A4 50pk,Office Supplies,Storage,65
+28,Scissors Professional,Office Supplies,Cutting,38
+29,Tape Dispenser Set,Office Supplies,Fasteners,55
+30,Calculator Scientific,Office Supplies,Devices,120

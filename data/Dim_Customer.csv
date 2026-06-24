@@ -1,0 +1,51 @@
+customer_id,customer_name,segment,acquisition_date,acquisition_channel,city,lifetime_value
+1,Ahmed Al Mansouri,Regular,2022-11-24,In-Store,Ajman,1068.38
+2,Sarah Johnson,Regular,2022-05-21,Online,Dubai,2110.16
+3,Mohammed Al Hashimi,VIP,2022-03-13,In-Store,Sharjah,33352.03
+4,Priya Sharma,Regular,2022-12-13,Referral,Dubai,5977.21
+5,Khalid Al Rashidi,At-Risk,2022-10-07,Online,Dubai,265.18
+6,Emma Thompson,VIP,2022-08-05,In-Store,Dubai,2204.79
+7,Raj Patel,Regular,2022-02-17,In-Store,Dubai,1905.38
+8,Fatima Al Zaabi,VIP,2022-09-16,In-Store,Dubai,27409.23
+9,John Williams,Regular,2022-10-15,Online,Sharjah,1750.93
+10,Aisha Al Maktoum,Regular,2022-11-29,Online,Abu Dhabi,5670.33
+11,David Chen,Regular,2022-08-03,Online,Dubai,1919.44
+12,Layla Hassan,At-Risk,2022-10-29,Corporate,Ajman,628.56
+13,Omar Al Farsi,Regular,2022-01-04,In-Store,Dubai,6118.7
+14,Nina Petrov,Regular,2022-03-23,In-Store,Dubai,5645.49
+15,Abdullah Al Nuaimi,VIP,2022-06-24,Online,Sharjah,13081.91
+16,Maria Garcia,Regular,2022-04-21,In-Store,Dubai,7666.26
+17,Faisal Al Qassimi,Regular,2022-06-22,Referral,Dubai,997.24
+18,Lisa Anderson,Regular,2022-07-14,Corporate,Ajman,954.39
+19,Tariq Al Blooshi,Regular,2022-06-26,Online,Ajman,4909.06
+20,Sophie Martin,VIP,2022-01-23,Online,Dubai,33054.14
+21,Hamdan Al Falasi,Regular,2022-10-02,Corporate,Dubai,1173.64
+22,Ananya Singh,Regular,2022-07-13,In-Store,Dubai,814.64
+23,Yousef Al Hammadi,VIP,2022-05-31,Online,Sharjah,37459.69
+24,Elena Kowalski,At-Risk,2022-11-13,Online,Sharjah,1782.36
+25,Saeed Al Mazrouei,VIP,2022-07-05,In-Store,Sharjah,26318.96
+26,Amy Roberts,Regular,2022-12-27,Online,Sharjah,742.53
+27,Majid Al Shamsi,Regular,2022-12-05,Corporate,Dubai,1977.61
+28,Zara Ahmed,Regular,2022-05-29,Online,Dubai,7884.73
+29,Sultan Al Dhaheri,Regular,2022-04-30,In-Store,Dubai,6958.57
+30,Rachel Green,Regular,2022-07-14,In-Store,Sharjah,2368.19
+31,Jassim Al Suwaidi,VIP,2022-11-22,Corporate,Abu Dhabi,37667.68
+32,Meera Nair,Regular,2022-03-25,In-Store,Sharjah,3087.41
+33,Rashid Al Muhairi,Regular,2022-04-18,Online,Dubai,5427.37
+34,Claire Dubois,VIP,2022-12-26,In-Store,Dubai,42200.13
+35,Nasser Al Ketbi,Regular,2022-11-28,Corporate,Abu Dhabi,756.94
+36,Deepa Kumar,Regular,2022-11-22,Corporate,Dubai,1534.88
+37,Saif Al Neyadi,Regular,2022-05-06,Online,Dubai,1474.54
+38,Hannah Mueller,VIP,2022-07-14,Corporate,Ajman,12731.69
+39,Obaid Al Mansoori,Regular,2022-11-24,Corporate,Sharjah,5567.66
+40,Sunita Rao,VIP,2022-04-23,In-Store,Sharjah,31059.95
+41,Mariam Al Hosani,At-Risk,2022-01-29,Online,Sharjah,535.19
+42,Peter Schmidt,VIP,2022-01-17,In-Store,Dubai,36383.02
+43,Hessa Al Qubaisi,At-Risk,2022-07-25,Online,Sharjah,608.71
+44,Vikram Mehta,Regular,2022-04-19,Online,Dubai,7322.46
+45,Noura Al Marzooqi,VIP,2022-10-18,Referral,Dubai,39535.45
+46,Chloe Bernard,Regular,2022-06-11,In-Store,Abu Dhabi,1858.49
+47,Salim Al Ameri,Regular,2022-09-13,Referral,Ajman,3285.93
+48,Riya Kapoor,Regular,2022-11-26,Online,Abu Dhabi,3779.04
+49,Moza Al Kaabi,Regular,2022-05-16,In-Store,Dubai,1289.12
+50,James Wilson,Regular,2022-10-15,Online,Dubai,4404.02

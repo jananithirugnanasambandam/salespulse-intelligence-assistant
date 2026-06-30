@@ -13,7 +13,13 @@ SalesPulse Intelligence Assistant is a modern Business Intelligence platform des
 The solution combines PostgreSQL, Python, Power BI, Forecasting Models, Data Quality Monitoring, and Automated Reporting into a single analytics ecosystem that enables faster and smarter business decisions.
 
 ---
+# 🎥 Project Demo
 
+Watch the 90-second walkthrough of the SalesPulse Intelligence Assistant:
+
+▶️ https://www.loom.com/share/a20d870365f3457db991158381f325db
+
+---
 # 🎯 Problem Statement
 
 Every business—Retail, Logistics, Finance, Real Estate, Aviation, Healthcare, and E-Commerce—has a sales team.
